@@ -1,0 +1,16 @@
+body {
+    background-image: url(cat.png);
+    background-size: cover;
+}
+
+main {
+    width: 40%;
+    font-family: Tahoma;
+    color: #fff;
+    padding: 30px;
+}
+
+h2 {
+    background-image: linear-gradient(to top, brown, rgba(165, 42, 42, 0.137));
+    padding: 10px;
+}
